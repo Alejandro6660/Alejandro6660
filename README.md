@@ -35,8 +35,7 @@ Soy un apasionado estudiante de ingenieria de software y desarrollador en <a hre
 <br>
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Node_Js-eef4ed?style=flat-square&logo=node.js&logoColor=eef4ed&logoSize=amg&labelColor=0b2545">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-eef4ed?style=flat-square&logo=typescript&logoColor=eef4ed&logoSize=amg&labelColor=0b2545">
-&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-eef4ed?style=flat-square&logo=typescript&logoColor=eef4ed&logoSize=amg&labelColor=0b2545">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-eef4ed?style=flat-square&logo=postgresql&logoColor=eef4ed&logoSize=amg&labelColor=0b2545">&nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Static Badge" src="https://img.shields.io/badge/Astro-eef4ed?style=flat-square&logo=astro&logoColor=eef4ed&logoSize=amg&labelColor=0b2545">
 
